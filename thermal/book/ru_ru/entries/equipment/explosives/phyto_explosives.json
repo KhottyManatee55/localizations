@@ -1,10 +1,33 @@
-{	"name": "Фито-взрывчатка",	"icon": "thermal:phyto_tnt",	"read_by_default": true,	"flag": "mod:thermal_cultivation",	"category": "thermal:explosives",
-	"pages": [		{			"type": "text",			"text": "Фито-взрывчатка накладывает мгновенный эффект костной муки на растения в определённом раиусе. Блоки Фито-взрывчатки меют радиус в 9 блоков, в Фито-Граната - 5 блоков."
+//ru_ru
+{
+	"name": "Фито-взрывчатка",
+	"icon": "thermal:phyto_tnt",
+	"read_by_default": true,
+	"flag": "mod:thermal_cultivation",
+	"category": "thermal:explosives",
 
-		},		{			"type": "crafting",			"recipe": "thermal:phyto_tnt",			"recipe2": "thermal:phyto_grenade_4"
+	"pages": [
+		{
+			"type": "text",
+			"text": "Фито-взрывчатка накладывает мгновенный эффект костной муки на растения в определённом раиусе. Блоки Фито-взрывчатки меют радиус в 9 блоков, в Фито-Граната - 5 блоков."
 
-		},		{			"flag": "&mod:thermal_cultivation,mod:thermal_locomotion",			"type": "crafting",			"recipe": "thermal:phyto_tnt_minecart",			"title": "PNT Minecart"
 
-		}	]
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:phyto_tnt",
+			"recipe2": "thermal:phyto_grenade_4"
+
+
+		},
+		{
+			"flag": "&mod:thermal_cultivation,mod:thermal_locomotion",
+			"type": "crafting",
+			"recipe": "thermal:phyto_tnt_minecart",
+			"title": "PNT Minecart"
+
+
+		}
+	]
 
 }
