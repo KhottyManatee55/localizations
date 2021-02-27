@@ -1,6 +1,21 @@
-{	"name": "Граната",	"icon": "thermal:explosive_grenade",	"read_by_default": true,	"category": "thermal:explosives",	"pages": [		{			"type": "text",			"text": "Граната это уменьшеная, метательная версия динамита"
-		},		{			"type": "crafting",			"recipe": "thermal:explosive_grenade_4"
+//ru_ru
+{
+	"name": "Граната",
+	"icon": "thermal:explosive_grenade",
+	"read_by_default": true,
+	"category": "thermal:explosives",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Граната это уменьшеная, метательная версия динамита"
 
-		}
-	]
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:explosive_grenade_4"
+
+
+		}
+
+	]
 }
