@@ -1,0 +1,2 @@
+{	"name": "Хранение и передача",	"description": "Этот раздел рассказывает о способах хранения и перемещения ресурсов, включая себя самого.",	"icon": "thermal:fluid_cell",	"flag": "mod:thermal_expansion",	"sortnum": 2
+}

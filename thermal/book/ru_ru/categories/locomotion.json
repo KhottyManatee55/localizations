@@ -1,0 +1,2 @@
+{	"name": "Locomotion",	"description": "Учимся правильно делать чу-чух чу-чух",	"icon": "thermal:lumium_rail",	"parent": "thermal:storage_and_xfer",	"flag": "mod:thermal_locomotion",	"sortnum": 4
+}

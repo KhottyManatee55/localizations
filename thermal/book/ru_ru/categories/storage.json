@@ -1,0 +1,2 @@
+{	"name": "Хранение",	"description": "Технически это можно превратить в самодельную трубу",	"icon": "thermal:energy_cell",	"parent": "thermal:storage_and_xfer",	"sortnum": 1
+}

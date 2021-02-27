@@ -1,0 +1,2 @@
+{	"name": "Устройства",	"description": "Этот раздел описывает работу каждого устройства. Устройства не требуют RF для работы, если не указано обратное.",	"icon": "thermal:device_tree_extractor",	"parent": "thermal:technology",	"flag": "|mod:thermal_expansion,mod:thermal_cultivation",	"sortnum": 2
+}

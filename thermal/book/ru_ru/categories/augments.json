@@ -1,0 +1,2 @@
+{	"name": "Расширения",	"description": "Улучшай свои механизмы и инструменты.",	"icon": "thermal:upgrade_augment_3",	"parent": "thermal:technology",	"sortnum": 4
+}

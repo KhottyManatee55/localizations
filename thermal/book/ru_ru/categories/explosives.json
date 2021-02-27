@@ -1,0 +1,2 @@
+{	"name": "Взрывчатка",	"description": "Только для развлечений, не для потребления!",	"icon": "thermal:explosive_grenade",	"parent": "thermal:equipment",	"sortnum": 4
+}
