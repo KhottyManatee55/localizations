@@ -1,5 +1,32 @@
-{	"name": "Костюм дайвера",	"icon": "thermal:diving_chestplate",	"category": "thermal:armor",	"read_by_default": true,	"flag": "mod:thermal_innovation",
-	"pages": [		{			"type": "text",			"text": "Костюм дайвера позволит с лёгкостью исследовать подводные глубины. Позволяет плавать и копать быстрее, а так же дышать дольше под водой!"		},		{			"type": "crafting",			"recipe": "thermal:diving_fabric",			"text": "Ткань, используемая для крафта Костюма дайвера"
-		},		{			"type": "crafting",			"recipe": "thermal:armor/diving_helmet",			"recipe2": "thermal:armor/diving_chestplate"
-		},		{			"type": "crafting",			"recipe": "thermal:armor/diving_leggings",			"recipe2": "thermal:armor/diving_boots"		}	]
+//ru_ru
+{
+	"name": "Костюм дайвера",
+	"icon": "thermal:diving_chestplate",
+	"category": "thermal:armor",
+	"read_by_default": true,
+	"flag": "mod:thermal_innovation",
+
+	"pages": [
+		{
+			"type": "text",
+			"text": "Костюм дайвера позволит с лёгкостью исследовать подводные глубины. Позволяет плавать и копать быстрее, а так же дышать дольше под водой!"
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:diving_fabric",
+			"text": "Ткань, используемая для крафта Костюма дайвера"
+
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:armor/diving_helmet",
+			"recipe2": "thermal:armor/diving_chestplate"
+
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:armor/diving_leggings",
+			"recipe2": "thermal:armor/diving_boots"
+		}
+	]
 }
