@@ -1,2 +1,8 @@
-{	"name": "Элементальные заряды",	"description": "Освойте все четыре элемента.",	"icon": "thermal:lightning_charge",	"parent": "thermal:equipment",	"sortnum": 3
+//ru_ru
+{
+	"name": "Элементальные заряды",
+	"description": "Освойте все четыре элемента.",
+	"icon": "thermal:lightning_charge",
+	"parent": "thermal:equipment",
+	"sortnum": 3
 }
