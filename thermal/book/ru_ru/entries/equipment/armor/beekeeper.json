@@ -1,5 +1,32 @@
-{	"name": "Костюм пчеловода",	"icon": "thermal:beekeeper_chestplate",	"category": "thermal:armor",
-	"read_by_default": true,	"flag": "mod:thermal_cultivation",	"pages": [		{			"type": "text",			"text": "Костюм пчеловода защитит Вас от любых укусов, которые могут быть, за счёт своей прочности. Поглощает урон от кактусов, ягодных кустов и, разумеется, укус пчёл. Для того, чтобы быть $(o)полностью$() защищены, на Вас должен быть надет весь костюм! Будьте осторожны, т.к. даже полностью одетый костюм теряет прочность."		},		{			"type": "crafting",			"recipe": "thermal:beekeeper_fabric",			"text": "Ткань, используемая в крафтах Костюма пчеловода"
-		},		{			"type": "crafting",			"recipe": "thermal:armor/beekeeper_helmet",			"recipe2": "thermal:armor/beekeeper_chestplate"
-		},		{			"type": "crafting",			"recipe": "thermal:armor/beekeeper_leggings",			"recipe2": "thermal:armor/beekeeper_boots"		}	]
+#ru_ru
+{
+	"name": "Костюм пчеловода",
+	"icon": "thermal:beekeeper_chestplate",
+	"category": "thermal:armor",
+
+	"read_by_default": true,
+	"flag": "mod:thermal_cultivation",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Костюм пчеловода защитит Вас от любых укусов, которые могут быть, за счёт своей прочности. Поглощает урон от кактусов, ягодных кустов и, разумеется, укус пчёл. Для того, чтобы быть $(o)полностью$() защищены, на Вас должен быть надет весь костюм! Будьте осторожны, т.к. даже полностью одетый костюм теряет прочность."
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:beekeeper_fabric",
+			"text": "Ткань, используемая в крафтах Костюма пчеловода"
+
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:armor/beekeeper_helmet",
+			"recipe2": "thermal:armor/beekeeper_chestplate"
+
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:armor/beekeeper_leggings",
+			"recipe2": "thermal:armor/beekeeper_boots"
+		}
+	]
 }
