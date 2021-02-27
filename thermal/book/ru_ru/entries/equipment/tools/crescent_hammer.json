@@ -1,2 +1,18 @@
-{	"name": "Серпиводный молот",	"icon": "thermal:wrench",	"category": "thermal:tools",	"read_by_default": true,	"pages": [		{			"type": "text",			"text": "Обычный молот. Используется с шифтом для сбора механизмов, без шифта для их вращения. Этим молотом можно даже вразумить вашего друга, который продолжает вас троллить!"  		},		{			"type": "crafting",			"recipe": "thermal:tools/wrench",			"title": "Серпиводный молот"		}	]
+//ru_ru
+{
+	"name": "Серпиводный молот",
+	"icon": "thermal:wrench",
+	"category": "thermal:tools",
+	"read_by_default": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": "Обычный молот. Используется с шифтом для сбора механизмов, без шифта для их вращения. Этим молотом можно даже вразумить вашего друга, который продолжает вас троллить!"  
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:tools/wrench",
+			"title": "Серпиводный молот"
+		}
+	]
 }
