@@ -1,10 +1,33 @@
-{	"name": "Молниеносная взрывчатка",	"icon": "thermal:lightning_tnt",	"read_by_default": true,	"flag": "mod:thermal_innovation",	"category": "thermal:explosives",
-	"pages": [		{			"type": "text",
-			"text": "Молниеносная взрывчатка вызывает молнии в определённом радиусе и накладывает на мобов эффект $(l:thermal:world/mobs/blitz)Шок II$(/l). Блок Молниеносной взрычатки имеет радиус в 9 блоков, а Молниеносная граната - 5 блоков."
-		},		{			"type": "crafting",			"recipe": "thermal:lightning_tnt",			"recipe2": "thermal:lightning_grenade_4"
+//ru_ru
+{
+	"name": "Молниеносная взрывчатка",
+	"icon": "thermal:lightning_tnt",
+	"read_by_default": true,
+	"flag": "mod:thermal_innovation",
+	"category": "thermal:explosives",
 
-		},		{			"flag": "&mod:thermal_innovation,mod:thermal_locomotion",			"type": "crafting",			"recipe": "thermal:lightning_tnt_minecart",			"title": "Молниеносная вагонетка"
+	"pages": [
+		{
+			"type": "text",
 
-		}	]
+			"text": "Молниеносная взрывчатка вызывает молнии в определённом радиусе и накладывает на мобов эффект $(l:thermal:world/mobs/blitz)Шок II$(/l). Блок Молниеносной взрычатки имеет радиус в 9 блоков, а Молниеносная граната - 5 блоков."
+
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:lightning_tnt",
+			"recipe2": "thermal:lightning_grenade_4"
+
+
+		},
+		{
+			"flag": "&mod:thermal_innovation,mod:thermal_locomotion",
+			"type": "crafting",
+			"recipe": "thermal:lightning_tnt_minecart",
+			"title": "Молниеносная вагонетка"
+
+
+		}
+	]
 
 }
