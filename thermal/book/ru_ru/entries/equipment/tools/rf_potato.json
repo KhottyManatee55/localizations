@@ -1,0 +1,3 @@
+{	"name": "Картофельный конденсатор",	"icon": "thermal:rf_potato",	"category": "thermal:tools",	"read_by_default": true,	"flag": "mod:thermal_expansion",	"pages": [		{			"type": "text",			"text": "Хранит и передаёт RF другим механизмам. Не может быть использован для зарядки предметов в инвентаре игрока. $(br2)$(o)'Без обмана. Эта картофелина генерирует 1,1 вольта электричества. Мне не хватит энергии соврать тебе. В буквальном смысле.'"		},		{			"type": "crafting",			"recipe": "thermal:tools/rf_potato",			"title": "Картофельный конденсатор"		}
+	]
+} 

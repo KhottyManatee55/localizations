@@ -1,0 +1,5 @@
+{	"name": "Защитный Костюм",	"icon": "thermal:hazmat_chestplate",	"category": "thermal:armor",	"read_by_default": true,	"flag": "mod:thermal_innovation",
+	"pages": [		{			"type": "text",			"text": "Защитный костюм защитит Вас от опасностей окружающей среды, такие как: ожоги, урон при падении и эффект зелий. Для полноценной защиты нужен весь костюм! Прочность расходуется при предотвращении эффектов зелий и при тушении огня."		},		{			"type": "crafting",			"recipe": "thermal:hazmat_fabric",			"text": "Ткань, используемая для крафта Костюма Защиты"
+		},		{			"type": "crafting",			"recipe": "thermal:armor/hazmat_helmet",			"recipe2": "thermal:armor/hazmat_chestplate"
+		},		{			"type": "crafting",			"recipe": "thermal:armor/hazmat_leggings",			"recipe2": "thermal:armor/hazmat_boots"		}	]
+}

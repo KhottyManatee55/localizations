@@ -1,0 +1,10 @@
+{	"name": "Адская взрывчатка",	"icon": "thermal:fire_tnt",	"read_by_default": true,	"flag": "mod:thermal_innovation",	"category": "thermal:explosives",
+	"pages": [		{			"type": "text",			"text": "Адская взрывчатка поджигает блоки и мобов в определённом радиусе. Блок Адской взрычатки имеет радиус в 9 блоков, а Адская граната - 5 блоков"
+
+		},		{			"type": "crafting",			"recipe": "thermal:fire_tnt",			"recipe2": "thermal:fire_grenade_4"
+
+		},		{			"flag": "&mod:thermal_innovation,mod:thermal_locomotion",			"type": "crafting",			"recipe": "thermal:fire_tnt_minecart",			"title": "Адская вагонетка"
+
+		}	]
+
+}

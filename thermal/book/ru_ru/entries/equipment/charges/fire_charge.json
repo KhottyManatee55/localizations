@@ -1,0 +1,2 @@
+{	"name": "Огненный заряд",	"icon": "minecraft:fire_charge",	"category": "thermal:charges",	"read_by_default": true,	"pages": [		{			"type": "text",			"text": "Огненные заряд являются частью ванильного Майнкрафта, но Thermal добавляет им новые применения. Они могут быть использованы в крафте для создания некоторых сплавов и блоков."		},		{			"type": "crafting",			"recipe": "minecraft:fire_charge",			"title": "Огненный заряд"		}	]
+}

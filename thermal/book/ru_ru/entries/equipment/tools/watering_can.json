@@ -1,0 +1,3 @@
+{	"name": "Лейка",	"icon": "thermal:watering_can",	"category": "thermal:tools",
+	"read_by_default": true,	"flag": "mod:thermal_cultivation",	"pages": [		{			"type": "text",			"text": "Используется для увлажнения посевов и скорение роста. Заполняется и улучшается в $(l:thermal:technology/tinker_bench)Верстаке Лудилщика$(/l)"		},		{			"type": "crafting",			"recipe": "thermal:watering_can",			"title": "Лейка"		},		{			"type": "text",			"title": "Augment Compatibility",			"text": "$(li)$(l:thermal:technology/augments/integral_components)Integral Components$(/l)$(li)$(l:thermal:technology/augments/fluid_tank)Expanded Tank Construction$(/l)$(li)$(l:thermal:technology/augments/area_radius)Radial Enhancement$(/l)"		}	]
+}
