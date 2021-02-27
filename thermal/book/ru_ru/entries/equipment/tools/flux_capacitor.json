@@ -1,3 +1,25 @@
-{	"name": "Потоковый конденсатор",	"icon": "thermal:flux_capacitor",	"category": "thermal:tools",
-	"read_by_default": true,	"flag": "mod:thermal_innovation",	"pages": [		{			"type": "text",			"text": "Хранит RF и заряжает предметы Вашего инвентаря. Имеет 3 режима. Заряжает предметы из слотов быстрого доступа и броню, из инвентаря или всё вместе. Режим работы можно менять с помощью привязанной кнопки. Чтобы вкл./выкл. режим разядки, нажмите Shift-ПКМ, держа его в руке. Его так-же можно использовать для запитывания механизмов. Заряжается и улучшается в $(l:thermal:technology/tinker_bench)Верстаке Лудилщика$(/l)."		},		{			"type": "crafting",			"recipe": "thermal:flux_capacitor",			"title": "Потоковый конденсатор"		},		{			"type": "text",			"title": "Augment Compatibility",			"text": "$(li)$(l:thermal:technology/augments/integral_components)Integral Components$(/l)$(li)$(l:thermal:technology/augments/rf_coil)Expanded RF Coil$(/l)$(li)$(l:thermal:technology/augments/rf_coil_storage)Stabilized RF Coil$(/l)$(li)$(l:thermal:technology/augments/rf_coil_xfer)High-Flux RF Coil$(/l)"		}	]
+//ru_ru
+{
+	"name": "Потоковый конденсатор",
+	"icon": "thermal:flux_capacitor",
+	"category": "thermal:tools",
+
+	"read_by_default": true,
+	"flag": "mod:thermal_innovation",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Хранит RF и заряжает предметы Вашего инвентаря. Имеет 3 режима. Заряжает предметы из слотов быстрого доступа и броню, из инвентаря или всё вместе. Режим работы можно менять с помощью привязанной кнопки. Чтобы вкл./выкл. режим разядки, нажмите Shift-ПКМ, держа его в руке. Его так-же можно использовать для запитывания механизмов. Заряжается и улучшается в $(l:thermal:technology/tinker_bench)Верстаке Лудилщика$(/l)."
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:flux_capacitor",
+			"title": "Потоковый конденсатор"
+		},
+		{
+			"type": "text",
+			"title": "Augment Compatibility",
+			"text": "$(li)$(l:thermal:technology/augments/integral_components)Integral Components$(/l)$(li)$(l:thermal:technology/augments/rf_coil)Expanded RF Coil$(/l)$(li)$(l:thermal:technology/augments/rf_coil_storage)Stabilized RF Coil$(/l)$(li)$(l:thermal:technology/augments/rf_coil_xfer)High-Flux RF Coil$(/l)"
+		}
+	]
 }
