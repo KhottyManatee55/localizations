@@ -1,2 +1,7 @@
-{	"name": "Мир",	"description": "Всё что добавляет Thermal в мир и вокруг тебя, от мобов до металлов.",	"icon": "thermal:copper_ore",	"sortnum": 3
+//ru_ru
+{
+	"name": "Мир",
+	"description": "Всё что добавляет Thermal в мир и вокруг тебя, от мобов до металлов.",
+	"icon": "thermal:copper_ore",
+	"sortnum": 3
 }
