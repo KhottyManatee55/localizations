@@ -1,3 +1,26 @@
-{	"name": "Известные ответы на вопросы",	"icon": "minecraft:redstone",	"category": "thermal:guides",	"sortnum": -3,	"read_by_default": true,	"pages": [		{			"type": "text",			"text": "Q: Где Thermal Dynamics/трубы?$(br)A: Прочтите $(l:thermal:storage_and_xfer/dynamics)это$(/l).$(br2)Q: Где наборы улучшения?$(br)A: Прочтите $(l:thermal:technology/augments/integral_components)это$(/l).$(br2)Q: Как можно увеличить скорость рботы механизма? $(br)A: прочтите $(l:thermal:technology/augments/integral_components)это$(/l) и $(l:thermal:technology/augments/machine_speed)это$(/l).$(br2)Q: Стакаются ли улучшения?$(br)A: Прочтите $(l:thermal:technology/augments/introduction)это$(/l)."		},
-		{			"type": "text",			"text": "Q: Как поменять режим работы бура/пилы? $(br)A: Вам нужно установить $(l:thermal:technology/augments/area_radius)радиальное улучшение$(/l), чтобы поменять радиус копания.$(br2)Q: Как заряжать/улучшать мои инструменты?$(br)A: Прочтите $(l:thermal:technology/tinker_bench)это$(/l).$(br2)Q: Почему мой генератор медленно теряет RF?$(br)A: Буфер генератора предназначен только для того, чтобы определить степень его ограничения. Прочтите $(l:thermal:technology/dynamos/introduction)это$(/l), чтобы узнать больше."		},		{			"type": "text",			"text": "Q: Как можно поменять генерацию руд? $(br)A: Вы можете настроить только общую генерацию руд. Детальная настройка генерации пока не введена.$(br2)Q: Как поменять конфиги?$(br)A: Конфиги привязаны к миру; их можно найти в папке serverconfigs в папке мира. Чтобы задать конфиг по умолчанию для всех миров, Вам нужно скопировать изменённый конфиг-файл из папки serverconfigs в папку defaultconfigs."		},		{			"type": "text",			"text": "Q: Где и как можно отчитаться по поводу бага? $(br)A: Вы можете спросить на нашем $(l:thermal:links/discord)Dicord-сервере$(/l). Прежде чем отчитаться, убедитесь, что у Вас установлены последние версии модов и что у Вас не установлен мод Optifine.$(br2)Q: Как можно поменять рецепты?$(br)A: Серия Thermal использует пакеты данных (data-packs) для настройки всего, так что Вы можете просто поменять значения. Так-же Вы можете использовать мод CraftTweaker."		}	]
+//ru_ru
+{
+	"name": "Известные ответы на вопросы",
+	"icon": "minecraft:redstone",
+	"category": "thermal:guides",
+	"sortnum": -3,
+	"read_by_default": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": "Q: Где Thermal Dynamics/трубы?$(br)A: Прочтите $(l:thermal:storage_and_xfer/dynamics)это$(/l).$(br2)Q: Где наборы улучшения?$(br)A: Прочтите $(l:thermal:technology/augments/integral_components)это$(/l).$(br2)Q: Как можно увеличить скорость рботы механизма? $(br)A: прочтите $(l:thermal:technology/augments/integral_components)это$(/l) и $(l:thermal:technology/augments/machine_speed)это$(/l).$(br2)Q: Стакаются ли улучшения?$(br)A: Прочтите $(l:thermal:technology/augments/introduction)это$(/l)."
+		},
+		{
+			"type": "text",
+			"text": "Q: Как поменять режим работы бура/пилы? $(br)A: Вам нужно установить $(l:thermal:technology/augments/area_radius)радиальное улучшение$(/l), чтобы поменять радиус копания.$(br2)Q: Как заряжать/улучшать мои инструменты?$(br)A: Прочтите $(l:thermal:technology/tinker_bench)это$(/l).$(br2)Q: Почему мой генератор медленно теряет RF?$(br)A: Буфер генератора предназначен только для того, чтобы определить степень его ограничения. Прочтите $(l:thermal:technology/dynamos/introduction)это$(/l), чтобы узнать больше."
+		},
+		{
+			"type": "text",
+			"text": "Q: Как можно поменять генерацию руд? $(br)A: Вы можете настроить только общую генерацию руд. Детальная настройка генерации пока не введена.$(br2)Q: Как поменять конфиги?$(br)A: Конфиги привязаны к миру; их можно найти в папке serverconfigs в папке мира. Чтобы задать конфиг по умолчанию для всех миров, Вам нужно скопировать изменённый конфиг-файл из папки serverconfigs в папку defaultconfigs."
+		},
+		{
+			"type": "text",
+			"text": "Q: Где и как можно отчитаться по поводу бага? $(br)A: Вы можете спросить на нашем $(l:thermal:links/discord)Dicord-сервере$(/l). Прежде чем отчитаться, убедитесь, что у Вас установлены последние версии модов и что у Вас не установлен мод Optifine.$(br2)Q: Как можно поменять рецепты?$(br)A: Серия Thermal использует пакеты данных (data-packs) для настройки всего, так что Вы можете просто поменять значения. Так-же Вы можете использовать мод CraftTweaker."
+		}
+	]
 }
