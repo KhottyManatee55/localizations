@@ -1,2 +1,7 @@
-{	"name": "Ссылки и участники",	"description": "Вступи в наш Discord-сервер, чтобы получить любого рода помощь или просто пообщаться!",	"icon": "thermal:diamond_gear",	"sortnum": 19
+//ru_ru
+{
+	"name": "Ссылки и участники",
+	"description": "Вступи в наш Discord-сервер, чтобы получить любого рода помощь или просто пообщаться!",
+	"icon": "thermal:diamond_gear",
+	"sortnum": 19
 }
