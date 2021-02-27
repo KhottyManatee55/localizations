@@ -1,2 +1,7 @@
-{	"name": "Снаряжение",	"description": "Снаряжение для всех ваших приключений.",	"icon": "thermal:detonator",	"sortnum": 4
+//ru_ru
+{
+	"name": "Снаряжение",
+	"description": "Снаряжение для всех ваших приключений.",
+	"icon": "thermal:detonator",
+	"sortnum": 4
 }
