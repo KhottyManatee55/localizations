@@ -1,9 +1,32 @@
-{	"name": "Тектоническая взрывчатка",	"icon": "thermal:earth_tnt",	"read_by_default": true,	"flag": "mod:thermal_innovation",	"category": "thermal:explosives",
-	"pages": [		{			"type": "text",			"text": "Тектоническая взрывчатка ломает каменную и земляную породу блоков в определённом радиусе и накладывает на мобов эффект $(l:thermal:world/mobs/basalz)Разлука II$(/l). Очень полезен при копании. Блок Тектонической взрычатки имеет радиус в 9 блоков, а Тектоническая граната - 5 блоков.$(br)Легенда глосит, что Тектоническая взрывчатка некогда была настолько мощной, что могла разрушить даже бедрок."
+//ru_ru
+{
+	"name": "Тектоническая взрывчатка",
+	"icon": "thermal:earth_tnt",
+	"read_by_default": true,
+	"flag": "mod:thermal_innovation",
+	"category": "thermal:explosives",
 
-		},		{			"type": "crafting",			"recipe": "thermal:earth_tnt",			"recipe2": "thermal:earth_grenade_4"
-		},		{			"flag": "&mod:thermal_innovation,mod:thermal_locomotion",			"type": "crafting",			"recipe": "thermal:earth_tnt_minecart",			"title": "Тектоническая вагонетка"
+	"pages": [
+		{
+			"type": "text",
+			"text": "Тектоническая взрывчатка ломает каменную и земляную породу блоков в определённом радиусе и накладывает на мобов эффект $(l:thermal:world/mobs/basalz)Разлука II$(/l). Очень полезен при копании. Блок Тектонической взрычатки имеет радиус в 9 блоков, а Тектоническая граната - 5 блоков.$(br)Легенда глосит, что Тектоническая взрывчатка некогда была настолько мощной, что могла разрушить даже бедрок."
 
-		}	]
+
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:earth_tnt",
+			"recipe2": "thermal:earth_grenade_4"
+
+		},
+		{
+			"flag": "&mod:thermal_innovation,mod:thermal_locomotion",
+			"type": "crafting",
+			"recipe": "thermal:earth_tnt_minecart",
+			"title": "Тектоническая вагонетка"
+
+
+		}
+	]
 
 }
