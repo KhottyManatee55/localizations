@@ -1,10 +1,33 @@
-{	"name": "Ледяная взрывчатка",	"icon": "thermal:ice_tnt",	"read_by_default": true,	"flag": "mod:thermal_innovation",	"category": "thermal:explosives",
-	"pages": [		{			"type": "text",			"text": "Ледяная взрывчатка замораживает блоки в определённом радиусе и накладывает на мобов эффект $(l:thermal:world/mobs/blizz)Переохлаждение II$(/l). Блок Ледянной взрычатки имеет радиус в 9 блоков, а Ледяная граната - 5 блоков."
+//ru_ru
+{
+	"name": "Ледяная взрывчатка",
+	"icon": "thermal:ice_tnt",
+	"read_by_default": true,
+	"flag": "mod:thermal_innovation",
+	"category": "thermal:explosives",
 
-		},		{			"type": "crafting",			"recipe": "thermal:ice_tnt",			"recipe2": "thermal:ice_grenade_4"
+	"pages": [
+		{
+			"type": "text",
+			"text": "Ледяная взрывчатка замораживает блоки в определённом радиусе и накладывает на мобов эффект $(l:thermal:world/mobs/blizz)Переохлаждение II$(/l). Блок Ледянной взрычатки имеет радиус в 9 блоков, а Ледяная граната - 5 блоков."
 
-		},		{			"flag": "&mod:thermal_innovation,mod:thermal_locomotion",			"type": "crafting",			"recipe": "thermal:ice_tnt_minecart",			"title": "Ледяная вагонетка"
 
-		}	]
+		},
+		{
+			"type": "crafting",
+			"recipe": "thermal:ice_tnt",
+			"recipe2": "thermal:ice_grenade_4"
+
+
+		},
+		{
+			"flag": "&mod:thermal_innovation,mod:thermal_locomotion",
+			"type": "crafting",
+			"recipe": "thermal:ice_tnt_minecart",
+			"title": "Ледяная вагонетка"
+
+
+		}
+	]
 
 }
