@@ -7,9 +7,9 @@
  
 #WORK IN PROGRESS:
  - entries/links;
+ - entries/storage_and_xfer
  
 #TODO:
 
- - entries/storage_and_xfer
  - entries/technology
 
