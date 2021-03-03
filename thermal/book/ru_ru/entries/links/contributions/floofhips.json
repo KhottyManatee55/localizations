@@ -1,5 +1,15 @@
-{	"name": "FloofHips",	"icon": "minecraft:blue_orchid",	"category": "thermal:contributors",	"read_by_default": true,	"sortnum": 3,	"pages": [		{			"type": "link",			"url": "https://twitter.com/FloofHips",			"link_text": "FloofHips Twitter",			"text": "Твой глаз радуется текстурами мода Thermal, нарисованные этим человеком. Floof так-же сделал эту книгу интереснее в несколько раз."
-
-		}	]
-
+{
+	"name": "FloofHips",
+	"icon": "minecraft:blue_orchid",
+	"category": "thermal:contributors",
+	"read_by_default": true,
+	"sortnum": 3,
+	"pages": [
+		{
+			"type": "link",
+			"url": "https://twitter.com/FloofHips",
+			"link_text": "FloofHips Twitter",
+			"text": "Твой глаз радуется текстурами мода Thermal, нарисованные этим человеком. Floof так-же сделал эту книгу интереснее в несколько раз."
+		}
+	]
 }
