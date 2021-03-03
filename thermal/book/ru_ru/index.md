@@ -3,6 +3,7 @@
  - entries/equipment.
  - entries/guides
  - entries/world
+ - entries/links/contributions
  
 #WORK IN PROGRESS:
  - entries/links;
