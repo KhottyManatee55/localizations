@@ -1,13 +1,15 @@
 #UNDER REVIEW: 
  - categories;
  - entries/equipment.
-
-#WORK IN PROGRESS:
  - entries/guides
-
-#TODO:
+ 
+#WORK IN PROGRESS:
  - categories/contributors.json
+ - entries/world
+ 
+#TODO:
+
  - entries/links;
  - entries/storage_and_xfer
  - entries/technology
- - entries/world
+
