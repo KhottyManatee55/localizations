@@ -1,5 +1,15 @@
-{	"name": "Drullkus",	"icon": "minecraft:orange_dye",	"category": "thermal:contributors",	"read_by_default": true,	"sortnum": 4,	"pages": [		{			"type": "spotlight",			"title": "Drullkus",			"item": "minecraft:player_head{SkullOwner:'Drullkus'}",			"text": "Помог понять как Patchouli работает. Помогал с текстурами мода Thermal и многие другие моды. Любит жаловаться на свои же работы."
-
-		}	]
-
+{
+	"name": "Drullkus",
+	"icon": "minecraft:orange_dye",
+	"category": "thermal:contributors",
+	"read_by_default": true,
+	"sortnum": 4,
+	"pages": [
+		{
+			"type": "spotlight",
+			"title": "Drullkus",
+			"item": "minecraft:player_head{SkullOwner:'Drullkus'}",
+			"text": "Помог понять как Patchouli работает. Помогал с текстурами мода Thermal и многие другие моды. Любит жаловаться на свои же работы."
+		}
+	]
 }
