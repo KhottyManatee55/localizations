@@ -1,7 +1,7 @@
 //ru_ru
 {
 	"name": "Растения",
-	"description": "Посевы и деревья дают разные полезные ресурсы и еду",
+	"description": "Растения и деревья дающие разные полезные ресурсы, а также еду.",
 	"icon": "thermal:rosin",
 	"parent": "thermal:world",
 	"sortnum": 2
