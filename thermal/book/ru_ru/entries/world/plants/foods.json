@@ -1,0 +1,25 @@
+{
+  "name": "Еда",
+  "icon": "thermal:chocolate_cake",
+  "category": "thermal:plants",
+  "read_by_default": true,
+  "flag": "mod:thermal_cultivation",
+
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "thermal:chocolate_cake",
+      "text": "Восхитительный наивкуснейший десерт, заслуживающий приличной преданности. Сытный, как нормальный торт."
+    },
+    {
+      "type": "crafting",
+      "recipe": "thermal:spice_cake",
+      "text": "Сытная, восхитительная сладость, полученная из специй сади-корня. Снимает негативные эффекты."
+    },
+    {
+      "type": "crafting",
+      "recipe": "thermal:xp_stew",
+      "text": "Бодрящий эликсир из баклажанов, шипучий и придающий незабываемый опыт. Даёт опыт при употреблении."
+    }
+  ]
+}

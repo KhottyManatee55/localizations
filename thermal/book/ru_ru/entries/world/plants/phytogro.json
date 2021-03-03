@@ -1,0 +1,25 @@
+{
+  "name": "Фито-Гро",
+  "icon": "thermal:phytogro",
+  "read_by_default": true,
+  "category": "thermal:plants",
+
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "thermal:phytogro_2",
+      "text": "Фито-Гро это удобрение, которое содержит все необходимые растениям питательные вещества. Его можно использовать на растении или распылять на определенную территорию $(l:thermal:equipment/explosives/phytoexplosives)взрывчатыми веществами$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "thermal:phytogro_8",
+      "recipe2": "thermal:phytogro_4"
+    },
+    {
+      "flag": "mod:thermal_cultivation",
+      "type": "crafting",
+      "recipe": "thermal:phytosoil",
+      "text": "Фито-почва это земля, насыщенная Фито-Гро. Она увеличивает скорость роста растений, выращиваемых на ней, но скорость роста можно ещё больше ускорить, используя $(l:thermal:technology/devices/soilinfuser)Фито-почвенный инфузор$(/l)."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "name": "Семена",
+  "icon": "thermal:barley",
+  "category": "thermal:plants",
+  "read_by_default": true,
+  "flag": "mod:thermal_cultivation",
+
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thermal Cultivation добавляет множество культур, семена которых можно купить у крестьян."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Хмель",
+      "A.item1": "thermal:hops",
+      "A.item2": "thermal:hops_seeds",
+      "A.text": "Соцветия цветущей лозы хмеля. Используется для ароматизации пива.",
+
+      "B.title": "Кукуруза",
+      "B.item1": "thermal:corn",
+      "B.item2": "thermal:corn_seeds",
+      "B.text": "Зерно, ценящееся за универсальность."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Ячмень",
+      "A.item1": "thermal:barley",
+      "A.item2": "thermal:barley_seeds",
+      "A.text": "Зерно злаков, которое можно перемолоть в муку или солод, чтобы сделать пиво или виски.",
+
+      "B.title": "Редис",
+      "B.item1": "thermal:radish",
+      "B.item2": "thermal:radish_seeds",
+      "B.text": "Корнеплод с резким вкусом, обычно едят сырым или приготовленным на пару."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Лук",
+      "A.item1": "thermal:onion",
+      "A.item2": "thermal:onion_seeds",
+      "A.text": "Луковичный овощ, часто используемый для придания аромата пикантным блюдам. Доводит людей до слёз.",
+
+      "B.title": "Рис",
+      "B.item1": "thermal:rice",
+      "B.item2": "thermal:rice_seeds",
+      "B.text": "Наиболее широко потребляемое зерно в мире. Трудоёмок в уборке."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Сади-корень",
+      "A.item1": "thermal:sadiroot",
+      "A.item2": "thermal:sadiroot_seeds",
+      "A.text": "Лечебная специя, известная своими очищающими свойствами. Обладает характерным ароматом.",
+
+      "B.title": "Шпинат",
+      "B.item1": "thermal:spinach",
+      "B.item2": "thermal:spinach_seeds",
+      "B.text": "Листья шпината, дарующие морякам увеличение мышечной массы."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Болгарский перец",
+      "A.item1": "thermal:bell_pepper",
+      "A.item2": "thermal:bell_pepper_seeds",
+      "A.text": "Сорт перца без специй. Обычно рубят и используют в посуде.",
+
+      "B.title": "Баклажан",
+      "B.item1": "thermal:eggplant",
+      "B.item2": "thermal:eggplant_seeds",
+      "B.text": "Фиолетовый, губчатый $(l)фрукт$(), используемый во многих блюдах. Имеет тенденцию поглощать другие ароматы."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Зелёная фасоль",
+      "A.item1": "thermal:green_bean",
+      "A.item2": "thermal:green_bean_seeds",
+      "A.text": "Незрелые семенные стручки бобового растения. Можно употреблять отдельно или готовить в различных блюдах.",
+
+      "B.title": "Арахис",
+      "B.item1": "thermal:peanut",
+      "B.item2": "thermal:peanut_seeds",
+      "B.text": "Семена арахиса. Часто жарят, прессуют в масле или измельчают в арахисовое масло."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Клубника",
+      "A.item1": "thermal:strawberry",
+      "A.item2": "thermal:strawberry_seeds",
+      "A.text": "Сладкий красный фрукт, используемый в различных приправах и десертах.",
+
+      "B.title": "Помидор",
+      "B.item1": "thermal:tomato",
+      "B.item2": "thermal:tomato_seeds",
+      "B.text": "Острый красный $(l)фрукт$(), который часто нарезают для блюд или выжимают для соусов и супов."
+    },
+    {
+      "type": "2-2_item_page",
+
+      "A.title": "Кофе",
+      "A.item1": "thermal:coffee",
+      "A.item2": "thermal:coffee_seeds",
+      "A.text": "Плод кофе, косточку которого жарят, измельчают и варят, дабы она стала источником жизненной силы разработчиков модов.",
+
+      "B.title": "Чай",
+      "B.item1": "thermal:tea",
+      "B.item2": "thermal:tea_seeds",
+      "B.text": "Листья чайного растения. Часто сбрасывают в океан во время чаепитий."
+    },
+    {
+      "type": "3_item_page",
+
+      "title": "Морозный арбуз",
+      "item1": "thermal:frost_melon",
+      "item2": "thermal:frost_melon_slice",
+      "item3": "thermal:frost_melon_seeds",
+      "text": "Голубой сорт арбузов. Те, кто его употребляют, обнаруживают, что даже самые горячие поверхности кажутся ледяными."
+    }
+
+  ]
+}

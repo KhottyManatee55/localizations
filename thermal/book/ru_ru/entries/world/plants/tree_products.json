@@ -1,0 +1,66 @@
+{
+  "name": "Деревянные продукты",
+  "icon": "thermal:sawdust",
+  "read_by_default": true,
+  "category": "thermal:plants",
+  "pages": [
+    {
+      "type": "crafting",
+      "title": "Резина",
+      "recipe": "thermal:rubber_from_dandelion",
+      "recipe2": "thermal:rubber_from_vine"
+    },
+    {
+      "type": "smelting_page",
+      "in": "thermal:rubber",
+      "out": "thermal:cured_rubber",
+      "text": "Эластичный водонепроницаемый материал, полученный в результате коагуляции латекса. Его можно сделать, просто положив ведро латекса на верстак, или сделать его из лианы или одуванчиков. Для повышения упругости и эластичности каучук можно вулканизировать в печи или, если установлен Thermal Expansion, с серой в индукционной плавильной печи."
+    },
+    {
+      "flag": "|mod:thermal_expansion,mod:thermal_cultivation",
+      "type": "1-1_item_page",
+
+      "A.title": "Латекс",
+      "A.item": "thermal:latex_bucket",
+      "A.text": "Густая молочная эмульсия полимеров, которую можно $(l:thermal:technology/devices/tree_extractor)выжимать$(/l) из тропических деревьев. Используется в основном для изготовления резины. ",
+
+      "B.title": "Резина",
+      "B.item": "thermal:resin_bucket",
+      "B.text": "A thick, sticky fluid that can be $(l:thermal:technology/devices/tree_extractor)harvested$(/l) from oak, birch, spruce, and acacia trees."
+    },
+    {
+      "flag": "|mod:thermal_expansion,mod:thermal_cultivation",
+      "type": "1_item_page",
+
+      "title": "Sap",
+      "item": "thermal:sap_bucket",
+      "text": "A sugary fluid that once carried water and nutrients throughout a $(l:thermal:technology/devices/tree_extractor)dark oak tree$(/l)."
+    },
+    {
+      "flag": "mod:thermal_expansion",
+      "type": "2-1_item_page",
+
+      "A.title": "Sawdust",
+      "A.item1": "thermal:sawdust",
+      "A.item2": "thermal:sawdust_block",
+      "A.text": "A pile of small wood chips produced by $(l:thermal:technology/machines/pulverizer)pulverizing$(/l) logs or $(l:thermal:technology/machines/sawmill)cutting$(/l) them into planks. Is a burnable fuel in block form.",
+
+      "B.title": "Syrup",
+      "B.item": "thermal:syrup_bucket",
+      "B.text": "A thick, delicious fluid that makes any flapjack misadventures worthwhile. Produced by $(l:thermal:technology/machines/refinery)concentrating$(/l) sap."
+    },
+    {
+      "flag": "mod:thermal_expansion",
+      "type": "2-1_item_page",
+
+      "A.title": "Rosin",
+      "A.item1": "thermal:rosin",
+      "A.item2": "thermal:rosin_block",
+      "A.text": "A solid, $(l:thermal:technology/machines/refinery)refined$(/l) form of resin. Can be used as a burnable fuel.",
+
+      "B.title": "Tree Oil",
+      "B.item": "thermal:tree_oil_bucket",
+      "B.text": "An essential oil that is produced as a byproduct of $(l:thermal:technology/machines/refinery)refining$(/l) resin. Can be used as fuel in a $(l:thermal:technology/dynamos/compression)compression dynamo$(/l)."
+    }
+  ]
+}
