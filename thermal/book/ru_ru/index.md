@@ -2,14 +2,13 @@
  - categories;
  - entries/equipment.
  - entries/guides
+ - entries/world
  
 #WORK IN PROGRESS:
- - categories/contributors.json
- - entries/world
+ - entries/links;
  
 #TODO:
 
- - entries/links;
  - entries/storage_and_xfer
  - entries/technology
 
