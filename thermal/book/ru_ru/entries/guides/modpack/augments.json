@@ -1,37 +1,37 @@
 //ru_ru
 {
-	"name": "Custom Augments",
+	"name": "Собственные улучшения",
 	"icon": "minecraft:potato",
 	"category": "thermal:modpack",
 	"read_by_default": true,
 	"pages": [
 		{
 			"type": "text",
-			"text": "The augment system was created with modularity, customizability, and flexbility in mind. Augments are NBT-based, meaning you can assign any modifiers and values you want by modifying item NBT. In other words, there's nothing special about the augments that Thermal provides - literally any item can be an augment, assuming they have the relevant NBT data. Even a potato."
+			"text": "Система улучшений была сделана с упором на модульность, кастомизацию и гибкость. Улучшения основываются на NBT-данные, это значит, что Вы можете назначить любой модификатор и значение, просто меняя NBT-данные предмета. Другими словами, нет ничего особенного в улучшениях самого мода Thermal, любой предмет с правильно настроеными NBT-данными может быть улучшением, даже картошка."
 		},
 		{
 			"type": "text",
-			"text": "Augments have a type and modifiers. Although the augment type (machine, dynamo, potion, etc) does not currently affect anything (at the time of writing), it will be used for validation purposes in the future. Modifiers are assigned to an item through attribute-value pairs, the attribute being the modifier type and the value being the modifier value. All values are floats, even if the modifier type suggests it should be integral (e.g. potion strength)."
+			"text": "Улучшение включает в себя тип и модификатор. Хоть тип (механизм, генератор, зелье и т.д.) ни на что не влияет (на момент написания), в будущем будет иметь роль проверяющего. Модификатор применяется к предмету по принципу 'attribute-value', где 'attribute' - тип модификатора, а 'value' - его значение. Все значения плавающие, даже если тип модификатора требует цельное число (зелье силы, например)."
 		},
 		{
 			"type": "link",
 			"url": "https://github.com/KingLemming/1.16/blob/master/CoFHCore/src/main/java/cofh/core/util/constants/NBTTags.java#L85",
 			"link_text": "Github Link",
-			"text": "The general form of the NBT is as follows: $(br2){AugmentData:$(br){Type:'[augment type]',$(br)[modifier 1]:[float value]f, $(br)[modifier 2]:[float value]f, $(br)[...]}}$(br2)A full list of available augment types and modifiers can be found in King Lemming's Github; link below. "
+			"text": "Общая форма NBT-данных следуящая: $(br2){AugmentData:$(br){Type:'[augment type]',$(br)[modifier 1]:[float value]f, $(br)[modifier 2]:[float value]f, $(br)[...]}}$(br2)Полный список всех типов улучшений можно найти на странице Github King Lemming; ссылка ниже. "
 		},
 		{
 			"type": "text",
-			"text": "So, for example, the command to make a machine augment that makes the energy of all recipes 0 (a creative machine augment, essentially) is as follows (click to execute command): $(br)$(c:/summon minecraft:item ~ ~ ~ {Item:{id:'minecraft:sea_pickle',Count:1b,tag:{AugmentData:{Type:'MchAug',MchEn:0.0f}}}})/give $(playername) minecraft:sea_pickle{AugmentData:{Type:'MchAug',MchEn:0.0f}} 1$(/c)$(br2)If there are multiple modifier type-value pairs with the same type, the one that comes last takes precedence."
+			"text": "Итак, для примера, команда, которая сделает Вам улучшение, которое меняет потребление энергии на 0 (делает её креативной, по сути), следующая (нажмите, чтобы выполнить): $(br)$(c:/summon minecraft:item ~ ~ ~ {Item:{id:'minecraft:sea_pickle',Count:1b,tag:{AugmentData:{Type:'MchAug',MchEn:0.0f}}}})/give $(playername) minecraft:sea_pickle{AugmentData:{Type:'MchAug',MchEn:0.0f}} 1$(/c)$(br2)Если имеются несколько пар 'тип модификатора - значение', у последней пары будет высший приоритет."
 		},
 		{
 			"type": "text",
-			"title": "A Note on Stacking",
-			"text": "Certain modifiers are unstackable - that is to say, if multiple augments on the same tool/block have the same modifier type, the highest modifier value will take precedence. These modifiers have their values displayed in $(l)bold$(). Stackability is a trait inherent to the modifier type; for example, RFMax will always be unstackable and AERad will always be stackable, regardless of the modifier values."
+			"title": "По поводу накладывания эффекта",
+			"text": "Некоторые улучшения не накладывают свой эффект. Таким образом, если в одном инструменте/блоке установлены улучшения одного и того же типа модификатора, то будет использоваться только высшее значение данного типа. Значения этих модификаторов написаны $(l)жирным$() шрифтом. Эффект накладывания приссущ типу модификатора. Например, эффект от RFMax не будет накладываться, в то время как AERad будет, вне зависимости от значения модификатора."
 		},
 		{
 			"type": "text",
-			"title": "A Note on Floats",
-			"text": "As mentioned earlier, all values are input as floats. This causes some interesting interactions with modifier types that seem to be integral. In these situations, the augment will display the modifier value as the input float value rounded to the nearest integer. However, the actual behavior of the tool/block might differ, depending on the modifier type/value."
+			"title": "По поводу плавающих значений",
+			"text": "Как уже было упомянуто выше, все значения плавающие. Это генерирует несколько интересных моментов с типами модификаторов, которые требуют цельные значения. В таких моментах, улучшение покажет значение модификатора как плавающее, округлённое до цельного. Тем не менее, поведение блока/инструмента может быть разным, в зависимости от типа модификатора/значения."
 		}
 	]
 }
