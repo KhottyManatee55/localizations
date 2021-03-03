@@ -1,3 +1,15 @@
-{	"name": "Hekera",	"icon": "minecraft:oxeye_daisy",	"category": "thermal:contributors",	"read_by_default": true,	"sortnum": 2,	"pages": [		{			"type": "spotlight",			"title": "Hekera",			"item": "minecraft:player_head{SkullOwner:'Hekera'}",			"text": "Со-автор, много раз переписывал книгу. Сделал книгу намного красивее, улучшив компоновку. Пережил много ошибок. Любит высмеивать Shiny."		}	]
-
+{
+	"name": "Hekera",
+	"icon": "minecraft:oxeye_daisy",
+	"category": "thermal:contributors",
+	"read_by_default": true,
+	"sortnum": 2,
+	"pages": [
+		{
+			"type": "spotlight",
+			"title": "Hekera",
+			"item": "minecraft:player_head{SkullOwner:'Hekera'}",
+			"text": "Со-автор, много раз переписывал книгу. Сделал книгу намного красивее, улучшив компоновку. Пережил много ошибок. Любит высмеивать Shiny."
+		}
+	]
 }
