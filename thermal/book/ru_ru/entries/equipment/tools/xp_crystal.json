@@ -1,0 +1,17 @@
+{
+  "name": "Insightful Crystal",
+  "icon": "thermal:xp_crystal",
+  "category": "thermal:tools",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Портативное хранилище опыта! Проницательный кристалл может хранить 10К единиц опыта, это приблизительно 63 уровня. Это значение можно увеличить, зачаровав его на $(l:thermal:technology/enchants)Удержание$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "thermal:tools/xp_crystal",
+      "title": "Проницательный кристалл"
+    }
+  ]
+} 
