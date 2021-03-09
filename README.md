@@ -1,6 +1,7 @@
 Just a repo to share localizaed stuff
 
 #Progress
+
 UNDER REVIEW: 
  - categories;
  - entries/equipment
