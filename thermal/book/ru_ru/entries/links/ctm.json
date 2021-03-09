@@ -9,12 +9,12 @@
 			"type": "link",
 			"url": "https://www.curseforge.com/minecraft/mc-mods/ctm",
 			"link_text": "CTM",
-			"text": "Did you know some of the textures like the Enderium glass will connect and look all pretty with CTM installed? You did? Good for you. You didn't? What are you waiting for?!"
+			"text": "А вы знали, что если установить мод CTM, некоторые блоки, как, например, Электрумовое стекло, будут соединяться и выглядить красивее? Знали? Хорошо... Не знали? Тогда чего Вы ждёте?!"
 		},
 		{
 			"type": "spotlight",
 			"item": "thermal:enderium_ingot",
-			"text": "Fun Fact! Enderium gets its name from its Spacetime-warping Ender properties!"
+			"text": "Забавный факт! Имя Эндериум произошло от способностей Эндера перемещаться сквозь пространство и время!"
 		}
 	]
 }

@@ -8,12 +8,12 @@
 			"type": "link",
 			"url": "https://twitter.com/KingLemmingCoFH",
 			"link_text": "Twitter",
-			"text": "Want to keep up with the King himself? Follow him on Twitter!"
+			"text": "Хотите знать, что происходит с самим Кингом? Подпишитесь на его Twitter!"
 		},
 		{
 			"type": "spotlight",
 			"item": "thermal:lumium_ingot",
-			"text": "Fun Fact! Lumium gets its name from its luminescent properties!"
+			"text": "Забавный факт! Имя Люмиум произошло от способностей светиться!"
 		}
 	]
 }

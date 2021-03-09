@@ -8,12 +8,12 @@
 			"type": "link",
 			"url": "https://discord.com/invite/uRKrnbH",
 			"link_text": "Discord",
-			"text": "Having tech issues? More questions? Suggestions? Want a friendly place? Want to be able to know easier when your favorite thermal mods update? Join us on discord :D"
+			"text": "У вас технические неполадки? Больше вопросов или предложении? Хотите дружескую обстановку. Хотите быть в курсе, когда ваши любимые Thermal моды обновятся? Присоединяйтесь к нам в Discrd :D"
 		},
 		{
 			"type": "spotlight",
 			"item": "thermal:signalum_ingot",
-			"text": "Fun Fact! Signalum gets its name from its ability to transfer a redstone signal!"
+			"text": "Забавный факт! Имя Сигналум произошло от способностей передавать редстоун сигнал!"
 		}
 	]
 }
