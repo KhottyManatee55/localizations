@@ -15,4 +15,7 @@ WORK IN PROGRESS:
 TODO:
  - entries/technology
  - entries/world/materials/metal_forms
+ - entries/world/materials/rockwool
+ - entries/world/materials/storage
+ 
 
