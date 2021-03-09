@@ -11,7 +11,6 @@
 
  
 #TODO:
- - entries/equipment/tools/xp_crystal
  - entries/technology
  - entries/world/materials/metal_forms
 
